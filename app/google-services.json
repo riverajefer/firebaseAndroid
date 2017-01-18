@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909652007958",
+    "firebase_url": "https://testled-eb6bb.firebaseio.com",
+    "project_id": "testled-eb6bb",
+    "storage_bucket": "testled-eb6bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909652007958:android:f475a6d18f082a65",
+        "android_client_info": {
+          "package_name": "jeffer.com.firebase2test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909652007958-nffh3ojetu07vd3h34891832p816kngp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe93M5Io4Y_bGk-bG3CI8uPhYsfvBNprs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
