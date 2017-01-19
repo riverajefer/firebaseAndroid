@@ -14,4 +14,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+    <Switch
+        android:id="@+id/mySwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="26dp"
+        android:height="50dp"
+        android:text="Marcar"
+        android:textSize="20dp"
+        android:switchMinWidth="50dp"
+        android:switchPadding="50dp"/>
 </RelativeLayout>
